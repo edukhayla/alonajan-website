@@ -4,9 +4,8 @@ Thank you for visiting my website.
 
 
 To open the website:
-
-1. Open the link provided
-2. Open it with your device.
+1. Open this link (edukhayla.github.io/alonajan-website)
+2. Open it with your device. Works on PC, tablet, and mobile.
 
 To open file:
 1. Unzip the file
